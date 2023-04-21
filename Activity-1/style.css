@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+div.paragraph {
+    margin-left: 8px;
+    padding-bottom: 1em;
+}
+
+h1 {
+    padding: .5em 0 1em 0;
+}
+
+.buttons {
+    font-size: x-large;
+    display: flex;
+    gap: 1em;
+    margin-left: 8px;
+}
+
+.confirm {
+    font-weight: bold;
+    color: white;
+    background-color: green;
+    border: black solid 2px;
+    padding: 0px 7px;
+}
+
+.cancel {
+    border: black solid 2px;
+    padding: 0px 7px;
+}
+
+.div {
+    margin-left: 8px;
+    font-size: larger;
+}
+
+.boldChild {
+    font-weight: bold;
+    font-size: medium;
+}
